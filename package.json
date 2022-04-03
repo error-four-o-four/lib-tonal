@@ -65,7 +65,7 @@
     "husky": "^4.2.5",
     "jest": "^27.0.6",
     "jest-config": "^27.0.6",
-    "lerna": "^3.21.0",
+    "lerna": "^4.0.0",
     "lint-staged": "^11.1.2",
     "lodash": "^4.17.15",
     "prettier": "^2.3.2",

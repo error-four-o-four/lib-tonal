@@ -7,7 +7,7 @@ export default {
   input: "./dist/index.js",
   output: {
     format: "iife",
-    file: "./browser/tonal.min.js",
+    file: "../../lib/tonal.min.js",
     name: "Tonal",
     sourcemap: true
   },
